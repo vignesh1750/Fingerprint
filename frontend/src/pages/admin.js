@@ -59,7 +59,7 @@ const AdminLogin = () => {
           />
         </div>
         <div className="form-group">
-          <label htmlFor="fingerprint">Fingerprint Image (TIFF format)</label>
+          <label htmlFor="fingerprint">Fingerprint Image(TIFF format)</label>
           <input
             type="file"
             id="fingerprint"
