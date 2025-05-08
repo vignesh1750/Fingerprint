@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="home-container">
       <header className="home-header">
-        <h1>Welcome to the Online Voting System</h1>
+        <h1>Welcome to Online Voting System</h1>
         <p>Your voice matters! Cast your vote with ease and security.</p>
       </header>
 
