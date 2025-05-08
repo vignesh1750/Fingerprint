@@ -85,12 +85,12 @@ const VoterIDMatch = () => {
               required
             />
           </div>
-          <button type="submit">Fetch Voter Details</button>
+          <button type="submit">Fetch Voter Detail</button>
         </form>
       )}
       {voterDetails && hasVoted && (
         <div className="error-message">
-          You have already voted. You cannot vote again.
+          You have been already voted. You cannot vote again.
         </div>
       )}
 
