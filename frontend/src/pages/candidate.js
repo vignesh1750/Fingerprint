@@ -5,7 +5,7 @@ const PartyList = () => {
     {
       candidate_id: 1,
       name: "Narendra Modi",
-      party: "Bharatiya Janata Party (BJP)",
+      party: "Bharatiya Ja nata Party (BJP)",
     },
     {
       candidate_id: 2,
