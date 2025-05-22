@@ -9,7 +9,7 @@ const PartyList = () => {
     },
     {
       candidate_id: 2,
-      name: "Mallikarjun Kharge",
+      name: "Mallikan Kharge",
       party: "Indian National Congress (INC)",
     },
     {
