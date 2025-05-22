@@ -14,7 +14,7 @@ const PartyList = () => {
     },
     {
       candidate_id: 3,
-      name: "Arvind Kejriwal",
+      name: "Arnd Kejriwal",
       party: "Aam Aadmi Party (AAP)",
     },
     {
